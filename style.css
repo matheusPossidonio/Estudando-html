@@ -1,0 +1,9 @@
+body{
+    background-color: grey;
+    color: white;
+    font-size: medium;
+}
+#text{
+    color: black;
+    font-size: large;
+}
